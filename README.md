@@ -2,7 +2,7 @@
 
 ## This project uses [this](https://github.com/di-dimitrov/mmf) fork of Facebook's MMF framework.
 
-#### !!! The dataset is located in [this repository](https://github.com/di-dimitrov/mmf) under the following paths: 
+#### !!! The **DATASET** is located in [this repository](https://github.com/di-dimitrov/mmf) under the following paths: 
 #### /data/datasets/memes/defaults/annotations (labels) 
 #### /data/datasets/memes/defaults/images (memes)
 #### /data/datasets/memes_tgt/defaults/annotations (target labels) `dataset folder is same as the other task`
